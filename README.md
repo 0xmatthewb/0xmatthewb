@@ -4,4 +4,4 @@
 
 🌌 Currently learning Javascript (node.js, react.js, ethers.js, web3.js) and Solidity
 
-🔗 <a href="https://twitter.com/0xmatthewb">@0xmatthewb</a> on Twitter, matthewbrooks.eth#5293 on Discord
+🔗 <a href="https://twitter.com/0xmatthewb">@0xmatthewb</a> on Twitter, matthewbrooks.eth#1111 on Discord
