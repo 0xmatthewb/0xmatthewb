@@ -1,7 +1,7 @@
-🪁 matthewbrooks.eth
+🪁 matthewb.eth
 
-💻 Building <a href="https://juicebox.money/">JuiceboxDAO</a> & <a href="https://nouns.wtf/">NounsDAO</a>
+💻 Content lead at <a href="https://juicebox.money/">JuiceboxDAO</a>, prev. NounsDAO and RAW DAO
 
-🌌 Slowly learning React and Solidity
+🌌 Learning frontend dev and UI design
 
-🔗 <a href="https://twitter.com/0xmatthewb">@0xmatthewb</a> on Twitter, matthewbrooks.eth#1111 on Discord
+🔗 <a href="https://twitter.com/0xmatthewb">@0xmatthewb</a> on Twitter, <a href="https://warpcast.com/matthewb">@matthewb</a> on Farcaster
